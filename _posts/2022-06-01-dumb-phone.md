@@ -11,3 +11,4 @@ I have recently switched to using a dumbphone, the Nokia 2720 flip phone. My mai
 I have noticed changes in my habits already. I pull out my phone very infrequently now, because I know that it is very unlikely that there will be anything interesting on there.
 
 Overall I am happy with the change, however I do want to be a bit more commited to the change. At the moment I still sometimes swap out my sim card when I am unsure about whether I will need the smartphone in a certain place. For example last weekend I went on a long bike ride and I took my phone with me because I thought it would be usefull to use it to check the maps. But in the end I could have done without the phone as I know the roads well enough to navigate without maps.
+
