@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dumb phone"
+tags: technology
+---
+
+I have recently switched to using a dumbphone, the Nokia 2720 flip phone. My main motivation for switching from a smartphone was that I realised that I was spending way too much time checking my phone throughout the day. I was pulling it out when I was waiting in line somewhere, whenever I was bored or even during conversations. I made the commitment of only using the Nokia during the day. When I go to work I still carry my smartphone with me in my bag but I leave it off and so far I haven't needed to turn it on for anything. It's amazing how many things can just wait if you let them. My main worry was that I would miss a lot of Facebook messages as I can't receive those on the Nokia. But I found that checking fb messenger on my laptop occasionally and checking my smartphone in the evening is enough to keep up with the messages. And in a real emergency I can still contact people with the Nokia. Texting withthe T9 keypad is quite slow I have to admit, but that does not make it much worse to be honest. I kind of enjoy having to put a bit more effort into the text messages and the limitations this phone has also reduces my anxieties about not being expressive enough when texting. I used to spend quite some time scrolling through the emojis trying to find the most suitable one but now I either don't use one or do it the old-school way :).
+
+I have noticed changes in my habits already. I pull out my phone very infrequently now, because I know that it is very unlikely that there will be anything interesting on there.
+
+Overall I am happy with the change, however I do want to be a bit more commited to the change. At the moment I still sometimes swap out my sim card when I am unsure about whether I will need the smartphone in a certain place. For example last weekend I went on a long bike ride and I took my phone with me because I thought it would be usefull to use it to check the maps. But in the end I could have done without the phone as I know the roads well enough to navigate without maps.

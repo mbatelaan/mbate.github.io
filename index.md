@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/mbatelaan/mbate.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+layout: post
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Recent posts
 
-### Markdown
+<ul>
+  {% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> <b>{{ post.date | date: "%d %B %Y" }}</b> 
+    </li>
+  {% endfor %}
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About me
 
-```markdown
-Syntax highlighted code block
+<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-# Header 1
-## Header 2
-### Header 3
+I am Mischa Batelaan, a PhD candidate at the [University of Adelaide](https://www.adelaide.edu.au). My main area of research is in the study of the structure of nucleons through Lattice QCD methods. I have been working on a novel method for calculating nucleon form factors which is based on the Feynman-Hellman method.
 
-- Bulleted
-- List
+Outside of research I like to spend my time cycling around the Adelaide area and competing in local amateur cycling races. I also enjoy playing around with computers and technology.
 
-1. Numbered
-2. List
+### Introduction
+- I have been a PhD candidate at the University of Adelaide since 2019 working under the supervision of Associate professor James Zanotti and Associate professor Ross Young.
+- I received my honours degree in Bachelors of Science in High Performance Computational Physics from the University of Adelaide in 2018. My thesis title was _"Nucleon Form Factor Calculations using the Feynman-Hellmann method"_
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Publications
+1. M. Batelaan et al.: _"Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD"_ [https://arxiv.org/abs/2202.01366](https://arxiv.org/abs/2202.01366)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Conference presentations
+- Lattice21 parallel session: _"Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD"_ [Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD](https://indico.cern.ch/event/1006302/contributions/4381736/)
+- APLAT2020 parallel session: _"Nucleon electromagnetic form factors at high momenta using the Feynman-Hellmann method"_ [Nucleon electromagnetic form factors at large momenta using the Feynman-Hellmann theorem](https://conference-indico.kek.jp/event/113/contributions/2066/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbatelaan/mbate.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact Me
+- email: mischa.batelaan [at] adelaide.edu.au
+- email: mischa.batelaan [at] gmail.com
