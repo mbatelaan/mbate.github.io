@@ -4,16 +4,6 @@
 layout: default
 ---
 
-# Recent posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-    <a href="{{ post.url }}">{{ post.title }}</a> <b>{{ post.date | date: "%d %B %Y" }}</b> 
-    </li>
-  {% endfor %}
-</ul>
-
 # About me
 
 <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
@@ -37,3 +27,14 @@ Outside of research I like to spend my time cycling around the Adelaide area and
 ## Contact Me
 - email: mischa.batelaan [at] adelaide.edu.au
 - email: mischa.batelaan [at] gmail.com
+
+# Recent posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> <b>{{ post.date | date: "%d %B %Y" }}</b> 
+    </li>
+  {% endfor %}
+</ul>
+
