@@ -21,6 +21,7 @@ Outside of research I like to spend my time cycling around the Adelaide area and
 1. M. Batelaan et al.: _"Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD"_ [https://arxiv.org/abs/2202.01366](https://arxiv.org/abs/2202.01366)
 
 ## Conference presentations
+- Lattice22 parallel session: _"Calculation of hyperon transition form factors from two-point functions using the Feynman-hellmann method"_ [Calculation of hyperon transition form factors from two-point functions using the Feynman-hellmann method](https://indico.hiskp.uni-bonn.de/event/40/contributions/531/)
 - Lattice21 parallel session: _"Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD"_ [Nucleon Form Factors from the Feynman-Hellmann Method in Lattice QCD](https://indico.cern.ch/event/1006302/contributions/4381736/)
 - APLAT2020 parallel session: _"Nucleon electromagnetic form factors at high momenta using the Feynman-Hellmann method"_ [Nucleon electromagnetic form factors at large momenta using the Feynman-Hellmann theorem](https://conference-indico.kek.jp/event/113/contributions/2066/)
 
