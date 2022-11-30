@@ -10,7 +10,7 @@ Inspired by [Visakan Veerasamy](http://visakanv.com/1000/) I will use this page 
 # Recent posts
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories.1000 %}
     <li>
     <a href="{{ post.url }}">{{ post.title }}</a> <b>{{ post.date | date: "%d %B %Y" }}</b> 
     </li>
