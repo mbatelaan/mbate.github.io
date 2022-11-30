@@ -28,3 +28,22 @@ navbar:
    link: "tags"
  # - name: "Resume"
  #   absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+
+lsi: false
+safe: true
+# source: mbatelaan
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+collections:
+  "1000":
+    output: true
+    permalink: /:collection/:title/
+  # blog:
+  #   permalink: /blog/:year-:month-:day-:title/
+    
