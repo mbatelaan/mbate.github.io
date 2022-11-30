@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First 1000 Word Vomit
+title: 0001 - First 1000 Word Vomit
 subtitle: This is a draft - it won't be visible on the blog
 tags: [WIP]
 ---
