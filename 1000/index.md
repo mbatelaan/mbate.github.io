@@ -5,12 +5,12 @@ layout: main
 ---
 
 # 1 000 000 words in 1000 sets of 1000
-Inspired by [Visaken Veerasamy](http://visakanv.com/1000/) I will use this page to write out my 1000 word vomits. The purpose of them is to gain as much experience with writing as possible. 
+Inspired by [Visakan Veerasamy](http://visakanv.com/1000/) I will use this page to write out my 1000 word vomits. The purpose of them is to gain as much experience with writing as possible. 
 
 # Recent posts
 
 <ul>
-  {% for post in site.1000 %}
+  {% for post in site.posts %}
     <li>
     <a href="{{ post.url }}">{{ post.title }}</a> <b>{{ post.date | date: "%d %B %Y" }}</b> 
     </li>
