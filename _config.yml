@@ -44,6 +44,9 @@ collections:
   "1000":
     output: true
     permalink: /:collection/:title/
+  "shorts":
+    output: true
+    permalink: /:collection/:title/
   # blog:
   #   permalink: /blog/:year-:month-:day-:title/
     
