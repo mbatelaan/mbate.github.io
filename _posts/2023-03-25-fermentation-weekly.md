@@ -22,6 +22,7 @@ Things I learned:
 
 Weighing to add 2% salt, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; massaging the salt into the cabbage
 
+
 <img src="/assets/Ferments/IMG_0028.JPG" alt="drawing" width="300"/>
 <img src="/assets/Ferments/IMG_0039.JPG" alt="drawing" width="300"/>
 
