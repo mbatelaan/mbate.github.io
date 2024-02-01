@@ -10,6 +10,8 @@ I am Mischa Batelaan, a PhD candidate at the [University of Adelaide](https://ww
 
 Outside of research I like to spend my time cycling around the Adelaide area and competing in local amateur cycling races. I also enjoy playing around with computers and technology.
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 ## Introduction
 - I have been a PhD candidate at the University of Adelaide since 2019 working under the supervision of Associate professor James Zanotti and Associate professor Ross Young.
 - I received my honours degree in Bachelors of Science in High Performance Computational Physics from the University of Adelaide in 2018. My thesis title was _"Nucleon Form Factor Calculations using the Feynman-Hellmann method"_
