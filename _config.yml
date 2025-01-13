@@ -2,7 +2,8 @@ title: Mischa Batelaan
 author: Mischa Batelaan
 subtitle: personal site
 
-url: "http://mischabatelaan.com"
+url: "//mischabatelaan.com"
+# url: "http://mischabatelaan.com"
 # url: "https://mbatelaan.github.io"
 baseurl: ""
 blogurl: "/blog"
