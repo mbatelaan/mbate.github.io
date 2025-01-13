@@ -8,7 +8,7 @@ layout: main
 
 # About me
 
-{% assign myOtherPost = site.posts | where:"url", "/about" | first %}
+{% assign myOtherPost = site.about | where:"url", "/about" | first %}
 
 {{ myOtherPost.content }}
 
