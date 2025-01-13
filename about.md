@@ -3,8 +3,7 @@ layout: default
 title: About Me
 ---
 
-I am Mischa Batelaan, a PhD candidate at the [University of Adelaide](https://www.adelaide.edu.au). My main area of research is in the study of the structure of nucleons through Lattice QCD methods. I have been working on a novel method for calculating nucleon form factors which is based on the Feynman-Hellman method.
-
+I am Mischa Batelaan, a postdoctoral researcher at the College of William and Mary. My research is focused on hadron spectroscopy in lattice QCD.
 Outside of research I like to spend my time cycling around the Adelaide area and competing in local amateur cycling races. I also enjoy playing around with computers and technology.
 
 ### Introduction
