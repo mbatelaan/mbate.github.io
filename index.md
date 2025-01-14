@@ -8,9 +8,7 @@ layout: main
 
 # About me
 
-{% assign myOtherPost = site.about | where:"url", "/about" | first %}
-
-{{ myOtherPost.content }}
+{% include about-content.md %}
 
 # Recent posts
 
